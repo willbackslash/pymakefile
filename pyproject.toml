@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pymakefile"
-version = "0.1.0"
+version = "0.1.1"
 description = "Manage your Makefiles from python"
 authors = ["William <macwilliamdlc@gmail.com>"]
 license = "MIT"
